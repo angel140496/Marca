@@ -1,0 +1,40 @@
+.fondoGris
+{
+  background-color: #eeeeee;
+}
+.listaHorizontal
+{
+  list-style-type: none;
+  text-align: center;
+}
+.objetosListaHorizontal
+{
+  display: inline;
+  text-align: center;
+  margin: 0 10px 0 0;
+}
+#ContenedorEquipos
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.separador
+{
+  border-top: solid 1px black;
+  border-bottom: solid 1px black;
+}
+.piePagina
+{
+  height: auto;
+
+}
+#menu
+{
+
+}
+#logo
+{
+  visibility: hidden;
+}
